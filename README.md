@@ -1,6 +1,7 @@
 🎳 1/2 PASTE
 🔗 🐙REPO📋STANDARD 75k Fetch
 https://github.com/MatchPatern/STANDARDS-1#readme
+https://github.com/MatchPatern/STANDARDS-2#readme
 
 ## 🏠 The Covenant
 *The covenant. Language, file, index, session standards. How we build together. Frame shift standard. Companion method pattern. Fortified from TRANSMISSION-EVOLUTION mining. Read first. THIS FILE IS FOR YOU.*
